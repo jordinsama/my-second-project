@@ -1,2 +1,2 @@
 # my-first-project
-first timeaking a web page
+first time making a web page
